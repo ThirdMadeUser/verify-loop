@@ -1,0 +1,13 @@
+claimant,amount,date,text,category
+John Smith,"$1,234.50",2026/07/14,"Team offsite lunch, receipt attached, client meeting",travel
+John Smith,"$1234.50","14/07/2026","Team offsite lunch, receipt attached, client meeting",travel
+Maria Garcia,USD 89.99,2026-8-01,"SaaS subscription monthly - design tool",software
+D,,"","missing everything",misc
+Priya Patel,"3,200.00","August 3, 2026","Conference flight SFO-Austin economy class receipt",travel
+Sam O'Neill,$45,,"Taxi to airport, no receipt but under policy limit",ground
+Jordan Lee,"$780.00","2026-13-01","Hotel deposit — wait this date is bogus",travel
+Ana Souza,"USD 1,999.00",2026/06/30,"New laptop for onboarding engineer, receipt filed",equipment
+repeat-claims@x.com,"$59.99",2026/07/05,"Monthly coworking desk",office
+repeat-claims@x.com,"$59.99",2026/07/05,"Monthly coworking desk",office
+Tom Becker,"$220.00",,"Client dinner, 4 people, receipt lost but manager approved in email",meals
+Lena Fischer,"$12,000.00",2026/07/22,"Invoice from contractor — needs human review, unusually large",contractor
